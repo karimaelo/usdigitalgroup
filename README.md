@@ -9,3 +9,5 @@ Webhook is still now working now
 oc login https://api.preview.openshift.com
 oc project karimaelo-usdigitalgroup
 oc status
+
+Just moved to github to test with openshift
